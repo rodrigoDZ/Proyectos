@@ -7,4 +7,4 @@ Proyectos con tematica de ciencia de datos
 * Se ocuparon los modelos: Naive Bayes, SVM, y Redes Neuronales
 * Obteniendo una precision del 75% en el mejor modelo
 
-![](https://github.com/rodrigoDZ/Proyectos/blob/master/Images/ejemplo1.png)
+![](/Images/ejemplo1.png)
