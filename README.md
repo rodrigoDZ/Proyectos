@@ -1,5 +1,3 @@
-# Proyectos
-Proyectos con tematica de ciencia de datos
 
 # [Proyecto 1: Segmentacion de patologías asociadas al COVID en tomografías pulmonares](https://github.com/rodrigoDZ/Segmentacion_covid)
 
