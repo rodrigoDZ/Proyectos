@@ -15,4 +15,4 @@
 * Se ocupó una red neuronal con una arquitectura CNN-LSTM 
 * Obteniendo una función de pérdida Huber de 0.05913
 
-![](/Images/train_proyecto2.png "Predicción en conjunto train") ![](/Images/test_proyecto2.png "Predicción en el conjunto test")
+![](/Images/triain_proyecto2.png "Predicción en conjunto train") ![](/Images/test_proyecto2.png "Predicción en el conjunto test")
